@@ -10,11 +10,8 @@
 //     }
 // }
 
-// h1,
-// p {
-//     letter-spacing: 1px;
-// }
-
-.main h1, .main p, footer h1, footer p {
-    
+.main, footer {
+    h1, p {
+        letter-spacing: 1px;
+    }
 }
