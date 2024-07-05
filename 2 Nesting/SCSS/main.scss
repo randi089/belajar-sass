@@ -15,19 +15,19 @@
 // }
 
 .main {
-    & &-heading {
+    #{&}-heading {
         font-size: 2em;
     }
-    & &-paragraph {
+    #{&}-paragraph {
         font-size: 1.4em;
     }
 }
 
 .footer {
-    & &-heading {
+    #{&}-heading {
         font-size: 2em;
     }
-    & &-paragraph {
+    #{&}-paragraph {
         font-size: 1.4em;
     }
 }
