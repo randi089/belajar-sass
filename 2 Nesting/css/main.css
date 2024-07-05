@@ -1,3 +1,13 @@
-.main h1, .main p, footer h1, footer p {
-  letter-spacing: 1px;
+.main .main-heading {
+  font-size: 2em;
+}
+.main .main-paragraph {
+  font-size: 1.4em;
+}
+
+.footer .footer-heading {
+  font-size: 2em;
+}
+.footer .footer-paragraph {
+  font-size: 1.4em;
 }/*# sourceMappingURL=main.css.map */
